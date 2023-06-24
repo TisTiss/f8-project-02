@@ -1,0 +1,71 @@
+* {
+    box-sizing: border-box;
+}
+
+html {
+    font-size: 62.5%;
+    scroll-behavior: smooth;
+}
+
+body {
+    font-size: 1.6rem;
+    font-family: 'Poppins', sans-serif;
+}
+
+/* ============== Common ============== */
+.content {
+    width: 1170px;
+    max-width: calc(100% - 48px);
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.btn {
+    display: inline-block;
+    min-width: 144px;
+    padding: 11px 41px;
+    background: #171100;
+    border-radius: 25px;
+}
+/* ============== HEADER ============== */
+.header .body {
+    display: flex;
+    margin-top: 44px;
+}
+
+.header .body .nav {
+    display: inline-block;
+    margin-left: auto;
+}
+
+.header .body .nav ul {
+    display: flex;
+    
+}
+
+.header .nav a {
+    font-size: 16px;
+    line-height: 1.75;
+    text-align: center;
+    color: #5F5B53;
+}
+
+.header .nav a:active {
+    font-weight: 600;
+    font-size: 1.6rem;
+    line-height: 28px;
+    text-align: center;
+    color: #171100;
+}
+
+/* ==============  ============== */
+
+/* ==============  ============== */
+
+/* ==============  ============== */
+
+/* ==============  ============== */
+
+/* ==============  ============== */
+
+/* ==============  ============== */
